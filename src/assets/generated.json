@@ -1,0 +1,74 @@
+{
+  "houses": [
+  {
+    "_id": "5bd3b00226cf1b57602e361f",
+      "index": 0,
+      "guid": "daae2989-79ef-4b82-b17c-43e67b17c0d1",
+      "isActive": true,
+      "price": "$2,610.93",
+      "picture": "http://placehold.it/32x32",
+      "phone": "+1 (860) 573-3430",
+      "address": "847 Erskine Loop, Fairview, California, 3623"
+  },
+  {
+    "_id": "5bd3b002b8dbf31355053351",
+    "index": 1,
+    "guid": "914812eb-5cee-4b5d-aa9e-7bfb3e1d5fbf",
+    "isActive": true,
+    "price": "$2,318.65",
+    "picture": "http://placehold.it/32x32",
+    "phone": "+1 (925) 465-2301",
+    "address": "276 Indiana Place, Eagletown, Colorado, 1476"
+  },
+  {
+    "_id": "5bd3b002c1358f52da23cf96",
+    "index": 2,
+    "guid": "6e8218b4-cea8-4c3a-858d-29ebf0f27c56",
+    "isActive": true,
+    "price": "$1,109.16",
+    "picture": "http://placehold.it/32x32",
+    "phone": "+1 (933) 563-3891",
+    "address": "308 Withers Street, Maxville, Utah, 7582"
+  },
+  {
+    "_id": "5bd3b002802a066b88b2f50a",
+    "index": 3,
+    "guid": "490c670a-b987-4963-accd-bd2e28096790",
+    "isActive": false,
+    "price": "$3,707.55",
+    "picture": "http://placehold.it/32x32",
+    "phone": "+1 (987) 457-3204",
+    "address": "587 Vermont Court, Cressey, Northern Mariana Islands, 9183"
+  },
+  {
+    "_id": "5bd3b002b8ac9a11108883c2",
+    "index": 4,
+    "guid": "01728904-2631-41fa-b023-7afed42d1358",
+    "isActive": true,
+    "price": "$3,476.97",
+    "picture": "http://placehold.it/32x32",
+    "phone": "+1 (951) 511-3305",
+    "address": "473 Osborn Street, Munjor, Alaska, 1338"
+  },
+  {
+    "_id": "5bd3b002ec2a4410104b4a88",
+    "index": 5,
+    "guid": "8ac8c1dc-62d2-4707-a5bf-49c711d0d2e7",
+    "isActive": false,
+    "price": "$2,739.36",
+    "picture": "http://placehold.it/32x32",
+    "phone": "+1 (992) 459-2240",
+    "address": "206 Harway Avenue, Forbestown, Wyoming, 2673"
+  },
+  {
+    "_id": "5bd3b002d0578a151ae48045",
+    "index": 6,
+    "guid": "a776ac34-5f9c-4af8-8a1e-22a1dbeeeb00",
+    "isActive": false,
+    "price": "$3,226.96",
+    "picture": "http://placehold.it/32x32",
+    "phone": "+1 (819) 577-3762",
+    "address": "948 Louisiana Avenue, Roulette, Nebraska, 7781"
+  }
+]
+}
