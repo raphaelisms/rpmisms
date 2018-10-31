@@ -5,7 +5,6 @@ import About from '@/components/About'
 import Mywork from '@/components/Mywork'
 
 Vue.use(Router)
-
 export default new Router({
   routes: [
     {
