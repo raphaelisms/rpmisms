@@ -7,7 +7,7 @@
                 <h2>The Firing Pin</h2>    
             </b-card-header>
             <b-card-body>
-                I'm the webmaster for this fast-growing local business, and I've completely revamped their
+                I'm the webmaster for this fast-growing local business, and I've revamped their
                 e-commerce strategy and web presence, as well as implemented SEO strategies to boost sales and name recognition.
             </b-card-body>
             <b-button class="mb-3" variant="primary" src="https://americanmadetargets.com">See my work here</b-button>
