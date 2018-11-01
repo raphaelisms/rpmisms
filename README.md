@@ -1,6 +1,6 @@
 # raphaelplatte
 
-> My Resume Sute
+> My Resume Site
 
 ## Build Setup
 
